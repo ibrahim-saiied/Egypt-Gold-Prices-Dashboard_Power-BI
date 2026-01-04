@@ -1,4 +1,4 @@
-# Gold Prices Dashboard - Power Bi
+# Egypt Gold Prices Dashboard | Power BI
 
 ### Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTIxMDA4ZGUtMmQzOS00NThjLTg3YjItZGQ1YTVkZDQ1OWEwIiwidCI6IjVhNmNhYWE5LTViMjctNDcxNy05YzI3LWJjY2Y2YmU4MDQ2OSJ9) 
 ### Link to [MY Linked In](https://www.linkedin.com/in/ibrahim-saiied/) 
